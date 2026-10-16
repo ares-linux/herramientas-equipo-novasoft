@@ -8,6 +8,7 @@ Esta es la pagina web que concentra los enlaces de diagramas, carpetas, document
 ## Autores
 
 - [@ares-linux](https://www.github.com/ares-linux)
+- [@Andyyykingg](https://www.github.com/Andyyykingg)
 
 
 ## 🔗 Enlaces
